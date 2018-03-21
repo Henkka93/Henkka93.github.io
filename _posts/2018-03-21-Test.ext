@@ -1,1 +1,7 @@
-this a test
+---
+layout: post
+title:  "test"
+date:   2018-03-21 15:05:27 +0000
+categories: jekyll update
+---
+Testing
